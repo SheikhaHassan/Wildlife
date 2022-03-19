@@ -1,0 +1,27 @@
+.footer {
+
+     position: absolute;
+     
+     background-color:rgb(221, 170, 30) ;
+     text-align: center;
+     width: 100%;
+     height: 110px;
+     font-family: monospace;
+  
+  }
+
+body{background-color: #FFFDD0;}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+.centered {
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: monospace;}
